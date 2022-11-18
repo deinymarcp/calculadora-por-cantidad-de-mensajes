@@ -1,8 +1,9 @@
 [
- {
+{
   "Country": "Canada",
   "Plan": {
     "Basic": {
+        "Name": "Basic",
         "SMS": "0.0240",
         "MMS": "0.0240",
         "Long": "2.40",
@@ -10,6 +11,7 @@
         "Short": "1.12"
     },
     "Gold": {
+        "Name": "Gold",
         "SMS": "0.0222",
         "MMS": "0.0222",
         "Long": "2.22",
@@ -17,6 +19,7 @@
         "Short": "1.04"
     },
     "Platinum": {
+        "Name": "Platinum",
         "SMS": "0.0214",
         "MMS": "0.0214",
         "Long": "2.14",
@@ -24,6 +27,7 @@
         "Short": "1"
     },
     "Special": {
+        "Name": "Special",
         "SMS": "0.0176",
         "MMS": "0.0176",
         "Long": "1.76",
@@ -36,24 +40,28 @@
   "Country": "United States",
   "Plan": {
     "Basic": {
+        "Name": "Basic",
         "SMS": "0.0240",
         "MMS": "0.0480",
         "Long": "2.40",
         "Toll-Free": "4.80"
     },
     "Gold": {
+        "Name": "Gold",
         "SMS": "0.0222",
         "MMS": "0.0444",
         "Long": "2.22",
         "Toll-Free": "4.44"
     },
     "Platinum": {
+        "Name": "Platinum",
         "SMS": "0.0214",
         "MMS": "0.0429",
         "Long": "2.14",
         "Toll-Free": "4.29"
     },
     "Special": {
+        "Name": "Special",
         "SMS": "0.0176",
         "MMS": "0.0353",
         "Long": "1.76",
