@@ -1,66 +1,65 @@
 [
-{
-  "Country": "Canada",
-  "Plan": [
-      
+    {
+      "Country": "Canada",
+      "Plan": [
+        {
         "Basic": {
-          "SMS": "0.0240",
-          "MMS": "0.0240",
-          "Long": "2.40",
-          "Toll-Free": "4.80",
-          "Short": "1.12"
+            "SMS": "0.0240",
+            "MMS": "0.0240",
+            "Long": "2.40",
+            "Toll-Free": "4.80",
+            "Short": "1.12"
+          },
+          "Gold": {
+            "SMS": "0.0222",
+            "MMS": "0.0222",
+            "Long": "2.22",
+            "Toll-Free": "4.44",
+            "Short": "1.04"
+          },
+          "Platinum": {
+            "SMS": "0.0214",
+            "MMS": "0.0214",
+            "Long": "2.14",
+            "Toll-Free": "4.29",
+            "Short": "1"
+          },
+          "Special": {
+            "SMS": "0.0176",
+            "MMS": "0.0176",
+            "Long": "1.76",
+            "Toll-Free": "3.53",
+            "Short": "0.82"
+          }
+      }]
+     },
+     {
+      "Country": "United States",
+      "Plan": [{
+        "Basic": {
+            "SMS": "0.0240",
+            "MMS": "0.0480",
+            "Long": "2.40",
+            "Toll-Free": "4.80"
         },
         "Gold": {
-          "SMS": "0.0222",
-          "MMS": "0.0222",
-          "Long": "2.22",
-          "Toll-Free": "4.44",
-          "Short": "1.04"
+            "SMS": "0.0222",
+            "MMS": "0.0444",
+            "Long": "2.22",
+            "Toll-Free": "4.44"
         },
         "Platinum": {
-          "SMS": "0.0214",
-          "MMS": "0.0214",
-          "Long": "2.14",
-          "Toll-Free": "4.29",
-          "Short": "1"
+            "SMS": "0.0214",
+            "MMS": "0.0429",
+            "Long": "2.14",
+            "Toll-Free": "4.29"
         },
         "Special": {
-          "SMS": "0.0176",
-          "MMS": "0.0176",
-          "Long": "1.76",
-          "Toll-Free": "3.53",
-          "Short": "0.82"
+            "SMS": "0.0176",
+            "MMS": "0.0353",
+            "Long": "1.76",
+            "Toll-Free": "3.53"
         }
-      
+      }]
+     }
     ]
- },
- {
-  "Country": "United States",
-  "Plan": [
-    "Basic": {
-        "SMS": "0.0240",
-        "MMS": "0.0480",
-        "Long": "2.40",
-        "Toll-Free": "4.80"
-    },
-    "Gold": {
-        "SMS": "0.0222",
-        "MMS": "0.0444",
-        "Long": "2.22",
-        "Toll-Free": "4.44"
-    },
-    "Platinum": {
-        "SMS": "0.0214",
-        "MMS": "0.0429",
-        "Long": "2.14",
-        "Toll-Free": "4.29"
-    },
-    "Special": {
-        "SMS": "0.0176",
-        "MMS": "0.0353",
-        "Long": "1.76",
-        "Toll-Free": "3.53"
-    }
-  ]
- }
-]
