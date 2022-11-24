@@ -3,8 +3,8 @@
       "Country": "Canada",
       "Plan": [
         {
-        "Basic": {
-            "SMS": "0.0240",
+        "Basic US": {
+            "SMS US": "0.0240",
             "MMS": "0.0240",
             "Long": "2.40",
             "Toll-Free": "4.80",
